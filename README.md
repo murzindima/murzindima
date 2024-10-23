@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Go
 - 👯 I’m looking to collaborate on Golang projects
-- 📫 How to reach me: dima@murzin.life
+- 📫 How to reach me: dima@murzin.dev
 
 <!--
 **murzindima/murzindima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
